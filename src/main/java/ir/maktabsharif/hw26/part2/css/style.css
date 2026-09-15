@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+p {
+    font-size: 16px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: lightgray;
+}
+
+a {
+    color: blue;
+}
+
+.service-box {
+    background-color: lightblue;
+    padding: 15px;
+    width: 500px;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.important {
+    color: red;
+}
+
+.course-list {
+    line-height: 2;
+}
+
+#main-title {
+    color: brown;
+}

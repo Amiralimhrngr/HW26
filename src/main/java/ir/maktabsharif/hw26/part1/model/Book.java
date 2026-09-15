@@ -1,4 +1,4 @@
-package ir.maktabsharif.hw26.model;
+package ir.maktabsharif.hw26.part1.model;
 //predefined set of books. Each book has: Id, Title, Author, Category, Price.
 public class Book {
     private Long id;

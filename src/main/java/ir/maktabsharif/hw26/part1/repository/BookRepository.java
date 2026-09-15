@@ -1,7 +1,7 @@
-package ir.maktabsharif.hw26.repository;
+package ir.maktabsharif.hw26.part1.repository;
 
 import com.github.javafaker.Faker;
-import ir.maktabsharif.hw26.model.Book;
+import ir.maktabsharif.hw26.part1.model.Book;
 
 import java.util.ArrayList;
 import java.util.List;

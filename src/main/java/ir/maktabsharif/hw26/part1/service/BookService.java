@@ -1,7 +1,7 @@
-package ir.maktabsharif.hw26.service;
+package ir.maktabsharif.hw26.part1.service;
 
-import ir.maktabsharif.hw26.model.Book;
-import ir.maktabsharif.hw26.repository.BookRepository;
+import ir.maktabsharif.hw26.part1.model.Book;
+import ir.maktabsharif.hw26.part1.repository.BookRepository;
 
 import java.util.List;
 

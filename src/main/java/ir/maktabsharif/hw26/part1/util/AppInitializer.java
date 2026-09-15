@@ -1,7 +1,7 @@
-package ir.maktabsharif.hw26.util;
+package ir.maktabsharif.hw26.part1.util;
 
-import ir.maktabsharif.hw26.repository.BookRepository;
-import ir.maktabsharif.hw26.service.BookService;
+import ir.maktabsharif.hw26.part1.repository.BookRepository;
+import ir.maktabsharif.hw26.part1.service.BookService;
 import jakarta.servlet.ServletContextEvent;
 import jakarta.servlet.ServletContextListener;
 import jakarta.servlet.annotation.WebListener;

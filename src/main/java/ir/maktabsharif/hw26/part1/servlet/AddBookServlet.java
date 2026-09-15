@@ -1,6 +1,6 @@
-package ir.maktabsharif.hw26.servlet;
+package ir.maktabsharif.hw26.part1.servlet;
 
-import ir.maktabsharif.hw26.service.BookService;
+import ir.maktabsharif.hw26.part1.service.BookService;
 import jakarta.servlet.ServletConfig;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebInitParam;
